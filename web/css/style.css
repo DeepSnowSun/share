@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+img{display:block; border:none}
+*{margin:0; padding:0; font-family:"微软雅黑"; list-style-type:none}
+a{text-decoration:none; color:#FFF}
+a:hover{ text-decoration:underline}
+.nav{font-size:15px; color:#FFF}
+.nav .hover{text-decoration:underline; color:#ffea00}
+.ind-img01{ background:#FFF; margin-bottom:30px}
+.ind-img01 img{ border:20px solid #FFF}
+.ind-kind{ padding-left:20px; padding-bottom:33px; color: #666; font-size:14px}
+.ind-int{ margin:0 30px 0 25px}
+.ind-int li{ line-height:30px; border-bottom:1px  #CCC solid; color:#999; font-size:14px}
+
+.int-p b{ color:#c50000; font-size:16px}
+.int-p{border:20px #FFFFFF solid; background:#FFF;
+    line-height:30px; font-size:14px; color:#777;
+    margin: 0 25px 30px;
+}
+.type-img{ background:#FFF; margin-left:0; margin-bottom:21px}
+.type-img img{ border:20px solid #FFF}
+.type-kind{text-align:center; font-size:16px; padding-bottom:23px; font-weight:bold; color:#c50000}
+.type-p{line-height:25px; padding:0 20px; font-size:14px}
+.type-cont{ width:790px; margin:0 auto;padding:30px 0}
+.int-ms{float:left; font-size:20px; margin-left:80px; margin-top:30px}
+.int-ms li{line-height:60px; border-bottom:1px #CCCCCC solid; color:#990000}
+.bottom{color:#FFF; font-size:14px}
+.td1{
+    background: url("../images/index_099.png");
+}
